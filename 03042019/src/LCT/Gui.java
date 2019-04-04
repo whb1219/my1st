@@ -1,7 +1,7 @@
 package LCT;
 
 import static org.jscience.economics.money.Currency.EUR;
-
+//test git
 import java.awt.BorderLayout;
 import java.awt.Color;
 import java.awt.Component;
